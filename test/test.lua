@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://sirius.menu/sirius'))()
+loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
     Name = "Grow A Garden",
     LoadingTitle = "CRYPTON HUB",
